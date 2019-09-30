@@ -1,0 +1,10 @@
+body{
+    background: url('../img/mtclogo.svg');
+    
+    background-size:contain;
+    background-attachment: fixed;
+}
+
+.card{
+
+}
